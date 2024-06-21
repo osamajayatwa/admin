@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977817813504",
+    "project_id": "ecommerce-d5623",
+    "storage_bucket": "ecommerce-d5623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977817813504:android:a539e71dee9e780d3ecee5",
+        "android_client_info": {
+          "package_name": "com.example.admin_fujika_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhYBiow1X239egCxSdDn6TGhrT7DTcF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977817813504:android:66d489f196c314dd3ecee5",
+        "android_client_info": {
+          "package_name": "com.example.fujika_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhYBiow1X239egCxSdDn6TGhrT7DTcF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
